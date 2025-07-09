@@ -1,6 +1,5 @@
 package com.example.compose
 
-import android.R
 import android.app.Activity
 import android.os.Build
 import android.view.View
